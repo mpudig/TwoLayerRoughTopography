@@ -1,0 +1,1 @@
+This repository contains the plotting code used to make the figures and movies in the JPO article: "Baroclinic turbulence above rough topography: The vortex gas and topographic turbulence regimes" by Pudig and Smith (2025).
